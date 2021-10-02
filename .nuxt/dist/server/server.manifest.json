@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/exit.js": "components/exit.js",
+    "pages/3d.js": "pages/3d.js",
+    "pages/game.js": "pages/game.js",
+    "pages/index.js": "pages/index.js",
+    "pages/popit.js": "pages/popit.js",
+    "pages/second.js": "pages/second.js",
+    "pages/socket-io.js": "pages/socket-io.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/exit.js": "components/exit.js.map",
+    "pages/3d.js": "pages/3d.js.map",
+    "pages/game.js": "pages/game.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/popit.js": "pages/popit.js.map",
+    "pages/second.js": "pages/second.js.map",
+    "pages/socket-io.js": "pages/socket-io.js.map",
+    "server.js": "server.js.map"
+  }
+}

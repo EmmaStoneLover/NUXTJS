@@ -2,37 +2,43 @@
   {
     "name": "3d",
     "path": "/3d",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\3d.vue",
-    "chunkName": "pages/3d"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\3d.vue",
+    "chunkName": "pages/3d",
+    "_name": "_73a1777c"
   },
   {
     "name": "game",
     "path": "/game",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\game.vue",
-    "chunkName": "pages/game"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\game.vue",
+    "chunkName": "pages/game",
+    "_name": "_4629223a"
   },
   {
     "name": "popit",
     "path": "/popit",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\popit.vue",
-    "chunkName": "pages/popit"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\popit.vue",
+    "chunkName": "pages/popit",
+    "_name": "_4e7a959b"
   },
   {
     "name": "second",
     "path": "/second",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\second.vue",
-    "chunkName": "pages/second"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\second.vue",
+    "chunkName": "pages/second",
+    "_name": "_facd37b6"
   },
   {
     "name": "socket-io",
     "path": "/socket-io",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\socket-io.vue",
-    "chunkName": "pages/socket-io"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\socket-io.vue",
+    "chunkName": "pages/socket-io",
+    "_name": "_7041869f"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_57549431"
   }
 ]

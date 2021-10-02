@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _7d733ed2 = () => interopDefault(import('..\\pages\\3d.vue' /* webpackChunkName: "pages/3d" */))
-const _6eacc9f8 = () => interopDefault(import('..\\pages\\game.vue' /* webpackChunkName: "pages/game" */))
-const _1636c5b4 = () => interopDefault(import('..\\pages\\popit.vue' /* webpackChunkName: "pages/popit" */))
-const _ad1f640c = () => interopDefault(import('..\\pages\\second.vue' /* webpackChunkName: "pages/second" */))
-const _3bf6d0aa = () => interopDefault(import('..\\pages\\socket-io.vue' /* webpackChunkName: "pages/socket-io" */))
-const _0482c888 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _73a1777c = () => interopDefault(import('..\\pages\\3d.vue' /* webpackChunkName: "pages/3d" */))
+const _4629223a = () => interopDefault(import('..\\pages\\game.vue' /* webpackChunkName: "pages/game" */))
+const _4e7a959b = () => interopDefault(import('..\\pages\\popit.vue' /* webpackChunkName: "pages/popit" */))
+const _facd37b6 = () => interopDefault(import('..\\pages\\second.vue' /* webpackChunkName: "pages/second" */))
+const _7041869f = () => interopDefault(import('..\\pages\\socket-io.vue' /* webpackChunkName: "pages/socket-io" */))
+const _57549431 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -24,27 +24,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/3d",
-    component: _7d733ed2,
+    component: _73a1777c,
     name: "3d"
   }, {
     path: "/game",
-    component: _6eacc9f8,
+    component: _4629223a,
     name: "game"
   }, {
     path: "/popit",
-    component: _1636c5b4,
+    component: _4e7a959b,
     name: "popit"
   }, {
     path: "/second",
-    component: _ad1f640c,
+    component: _facd37b6,
     name: "second"
   }, {
     path: "/socket-io",
-    component: _3bf6d0aa,
+    component: _7041869f,
     name: "socket-io"
   }, {
     path: "/",
-    component: _0482c888,
+    component: _57549431,
     name: "index"
   }],
 
