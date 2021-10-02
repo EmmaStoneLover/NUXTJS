@@ -91,7 +91,7 @@ export default {
   layout: 'home',
   data() {
     return {
-      apiURL: 'http://localhost:8000/api',
+      apiURL: 'https://emmastonenodejs.herokuapp.com/api',
       getText: false,
       form: {
         input: '',
